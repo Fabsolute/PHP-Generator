@@ -1,0 +1,14 @@
+{
+  "authors": [
+    {
+      "name": "Fabsolute",
+      "email": "ahmetturk93@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Fabstract\\PHPGenerator\\": "src"
+    }
+  },
+  "require": {}
+}
